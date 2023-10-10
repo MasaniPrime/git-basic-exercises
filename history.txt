@@ -1,0 +1,465 @@
+    1  git status
+    2  ls
+    3  cd desktop
+    4  cd '2023/school'
+    5  optics
+    6  lls
+    7  ls
+    8  cd optics
+    9  ls
+   10  git init
+   11  ls
+   12  git status
+   13  git add
+   14  git add code.py
+   15  git add code.txt
+   16  git add file
+   17  git clone
+   18  git checkout
+   19  git checkout -b
+   20  git add .
+   21  cd ..
+   22  cd optics
+   23  cd /
+   24  cd home
+   25  cd users
+   26  cd mzwam
+   27  cd users
+   28  cd desktop
+   29  pwd
+   30  cd users
+   31  cd user
+   32  pwd
+   33  cd ~
+   34  pwd
+   35  cd desktop
+   36  cd /
+   37  cd ~
+   38  cd mzwam
+   39  cd users
+   40  cd ~
+   41  pwd
+   42  cd desktop/umuzi
+   43  ls
+   44  cd vsc
+   45  ls
+   46  mkdir "Level 1 coding challenges"
+   47  cd "Level 1 coding challenges"
+   48  ls
+   49  touch 'task1.py'
+   50  ls
+   51  touch 'task2.py','task3.py'
+   52  ls
+   53  rmdir 'task2.py','task3.py'
+   54  rm -i 'task2.py','task3.py'
+   55  ls
+   56  rm -i 'task2.py','task3.py'
+   57  ls
+   58  touch task2.py task3.py
+   59  ls
+   60  touch 'task4.py' 'task5.py' task6.py task7.py
+   61  ls
+   62  touch task7
+   63  ls
+   64  rm
+   65  ls
+   66  rm -i
+   67  rm task7
+   68  ls
+   69  rm -all
+   70  rm -A
+   71  rm --help
+   72  ls
+   73  rm -f
+   74  ls
+   75  rm-d
+   76  rm -d
+   77  ls
+   78  rm --help
+   79  ls
+   80  rm -r
+   81  rm *
+   82  ls
+   83  pwd
+   84  touch 'task4.py' 'task5.py' task6.py task7.py
+   85  ls
+   86  touch 'task4.py' 'task5.py' task6.py task7.py
+   87  ls
+   88  touch 'task4.py' 'task5.py' task6.py task7.py
+   89  ls
+   90  touch 'task2.py' 'task1.py' task3.py task3.py
+   91  la
+   92  ls
+   93  cd ..
+   94  git checkout
+   95  git clone
+   96  git checkout
+   97  git checkout
+   98  git pull
+   99  git checkout -b
+  100  pwd
+  101  ls
+  102  pwd
+  103  ls
+  104  mkdir PracRun_File
+  105  ls
+  106  cd PracRun_File
+  107  git clone https://github.com/MasaniPrime/PracRun
+  108  git status
+  109  git checkout
+  110  ls
+  111  cd pracrun
+  112  git checkout
+  113  git status
+  114  git status
+  115  touch t1.txt
+  116  ls
+  117  git status
+  118  git push
+  119  pwd
+  120  ls
+  121  ls
+  122  cd *
+  123  git checkout
+  124  git status
+  125  LS
+  126  git push
+  127  git checkout
+  128  git status
+  129  git push
+  130  LS
+  131  git ststus
+  132  git checkout
+  133  git status
+  134  touch t1.py
+  135  ls
+  136  git status
+  137  git add *
+  138  git status
+  139  git checkout
+  140  git push
+  141  git status
+  142  git commit
+  143  git config --global MasaniPrime "mjjmasani@gmail.com"
+  144  git config --global "mjjmasani@gmail.com"
+  145  git config --global MasaniPrime "mjjmasani@gmail.com"
+  146  git config --global https://github.com/MasaniPrime "mjjmasani@gmail.com"
+  147  git config --global MasaniPrime "mjjmasani@gmail.com"
+  148  git config --global MasaniPrime
+  149  git config --global PracRun "mjjmasani@gmail.com"
+  150  git status
+  151  git restore
+  152  git restore --stages *
+  153  git restore --staged *
+  154  git status
+  155  git checkout
+  156  git clone https://github.com/MasaniPrime/PracRun
+  157  git checkout
+  158  git status
+  159  git add
+  160  git add *
+  161  git submodule add https://github.com/MasaniPrime/PracRun PracRun
+  162  git submodule add https://github.com/MasaniPrime/PracRun
+  163  pwd
+  164  git commit
+  165  git config --global MasaniPrime "Mzwandile (Prime) Masani"
+  166  git config --global "mjjmasani@gmail.com"
+  167  git config --global mjjmasani@gmail.com
+  168  git checkout -b
+  169  git commit
+  170   git config --global Masani.Prime "mjjmasani@gmail.com"
+  171  git commit
+  172   git config --global Masani.Prime "mjjmasani@gmail.com"
+  173   git config --global MasaniPrime "mjjmasani@gmail.com"
+  174   git config MasaniPrime "mjjmasani@gmail.com"
+  175   git config Masani.Prime "mjjmasani@gmail.com"
+  176   git config Masani.Prime "Mzwandile (Prime) Masani"
+  177   git config MasaniPrime "Mzwandile (Prime) Masani"
+  178   git config user.MasaniPrime "Mzwandile (Prime) Masani"
+  179   git config user.name "Mzwandile (Prime) Masani"
+  180   git config --global user.name "Mzwandile (Prime) Masani"
+  181   git config --global user.name "MasaniPrime"
+  182  git commit
+  183   git config --global user.email "mjjmasani@gmail.com"
+  184   git config --g user.email "mjjmasani@gmail.com"
+  185   git config --system user.email "mjjmasani@gmail.com"
+  186   git config --local user.email "mjjmasani@gmail.com"
+  187  git commit
+  188  git --version
+  189  git status
+  190  cd desktop
+  191  cd umuzi
+  192  ls
+  193  git vsc
+  194  cd vsc
+  195  ls
+  196  cd pracrun_file
+  197  ls
+  198  cd pracrun
+  199  git status
+  200  git stage
+  201  git staged
+  202  git stage t1.py
+  203  git status
+  204  git stage t1.py t1.txt
+  205  git checkout
+  206  ls
+  207  git commit
+  208  cd desktop/umuzi/vdc
+  209  pwd
+  210  cd desktop/umuzi/vsc
+  211  ls
+  212  cd '3. bash'
+  213  ls
+  214  touch text.txt t11.py t23.md
+  215  ls
+  216  mkdir remove
+  217  ls
+  218  mkdir another itfile
+  219  ls
+  220  rm itfile
+  221  rm -i itfile
+  222  rm
+  223  rm --help
+  224  rmdir itdile
+  225  rmdir itfile
+  226  ls
+  227  rm text.txt
+  228  ls
+  229  rm
+  230  cd anther
+  231  cd another
+  232  touch texttt.txt pyt.py touchme.md yesfile the.pdf
+  233  mkdir infile inner inside you
+  234  ls
+  235  ls
+  236  rm *
+  237  ls
+  238  touch py.py txt.txt
+  239  ls
+  240  cd ..
+  241  ls
+  242  ls
+  243  cd another
+  244  ls
+  245  cd ..
+  246  rmdir another
+  247  rm -i another
+  248  rm -d another
+  249  rmdir --help
+  250  cd another
+  251  ls
+  252  cd inner
+  253  rmdir -p inner
+  254  cd ..
+  255  rmdir -p inner
+  256  ls
+  257  cd ..
+  258  ls
+  259  rmdir -p another
+  260  ls
+  261  rm another
+  262  rm --help
+  263  rm -r another
+  264  ls
+  265  mkdir get-basic
+  266  ls
+  267  clear
+  268  cd /
+  269  pwd
+  270  cd home
+  271  cd desktop
+  272  ls
+  273  cd usr
+  274  ls
+  275  cd Desktop/UMUZI/
+  276  ls
+  277  cd git-basic-exercises/
+  278  ls
+  279  git status
+  280  git commit -m "secon commit"
+  281  git log
+  282  git status
+  283  git commit -m README.md "second commit"
+  284  git commit -m  README.md
+  285  git add README.md 
+  286  git status
+  287  git commit -m 'second commit'
+  288  git log
+  289  git commit -m "second commit"
+  290  git statud
+  291  git status
+  292  git status
+  293  git llog
+  294  git log
+  295  nano README.md 
+  296  git status
+  297  git add README.md 
+  298  git status
+  299  git commit -m "second commit"
+  300  git status
+  301  ls
+  302  git log
+  303  nano README.md 
+  304  git status
+  305  git add README.md
+  306  git status
+  307  git commit -m "third commit"
+  308  git status
+  309  git log
+  310  cat README.md 
+  311  git statud
+  312  git status
+  313  git commit -m "second commit"
+  314  touch RE.md
+  315  git add *
+  316  git status
+  317  git commit -m "New md File. First commit"
+  318  nano README.md 
+  319  cat README.md 
+  320  git status
+  321  git commit -m "second commit ( for the 9th timegit statusgit status)"
+  322  nano RE.md
+  323  git status
+  324  git commit -m "second commit"
+  325  git add README.md
+  326  git status
+  327  git commit -m "second commit"
+  328  git log
+  329  git checkout  9feb823abcabcb58679be29a2063c3be61956395
+  330  git status
+  331  git ignore RE.md
+  332  git status
+  333  git rm RE.md
+  334  git rm -f RE.md
+  335  git status
+  336  git checkout  9feb823abcabcb58679be29a2063c3be61956395
+  337  git status
+  338  git log
+  339  cd ..
+  340  ls
+  341  rm git-basic-exercises/
+  342  rm -f git-basic-exercises/
+  343  rmdir git-basic-exercises/
+  344  rmdir -i git-basic-exercises/
+  345  rmdir -f git-basic-exercises/
+  346  rmdir --help
+  347  rmdir -p git-basic-exercises/
+  348  rm --help
+  349  rm -r git-basic-exercises/
+  350  ls
+  351   rmdir -r git-basic-exercises/
+  352  rm --hepl
+  353  rm --help
+  354  rm -r git-basic-exercises/
+  355  Y
+  356  ls
+  357  rm -r git-basic-exercises
+  358  rm -help
+  359  rm --help
+  360  rm -d git-basic-exercises/
+  361  rm -f git-basic-exercises/
+  362  rm -i git-basic-exercises/
+  363  rmdir -r git-basic-exercises/
+  364  rmdir -f git-basic-exercises/
+  365  rmdir --help
+  366  rm --help
+  367  rm -R git-basic-exercises/
+  368  ls
+  369  rm --recursive
+  370  rm --recursive git-basic-exercises/
+  371  ls
+  372  ls -a
+  373  mkdir git-basic-exercises
+  374  cd git-basic-exercises/
+  375  git init
+  376  git status
+  377  git log
+  378  touch README.md
+  379  git add README.md "inital commit"
+  380  git add README.md
+  381  git status
+  382  git commit -m "inital commit"
+  383  git status
+  384  git log
+  385  nano README.md 
+  386  git status
+  387  cat README.md 
+  388  git add README.md 
+  389  git add README.md 
+  390  git status
+  391  git commit -m "second commit"
+  392  git log
+  393  nano README.md 
+  394  git status
+  395  git add README.md 
+  396  git sta
+  397  git status
+  398  git commit -m "third commit"
+  399  git log
+  400  git status
+  401  git log
+  402  git checkout
+  403  git checkout cc675feeecf79871da482d0165321e9c32e0e289
+  404  cat README.md 
+  405  git checkout main
+  406  cat README.md 
+  407  git checkout 
+  408  cat README.md 
+  409  git checkout main
+  410  git status
+  411  git log
+  412  git checkout main
+  413  git checkout 3e362b89a17a85f37a57d0472b00fff0be1059c9
+  414  cat README.md 
+  415  git checkout main
+  416  git checkout --help
+  417  git checkout cc675feeecf79871da482d0165321e9c32e0e289
+  418  cat README.md 
+  419  git checkout main
+  420  git checkout -b
+  421  git checkout -b main
+  422  cat README.md 
+  423  git status
+  424  git log
+  425  git checkout 3e362b89a17a85f37a57d0472b00fff0be1059c9
+  426  git log
+  427  git checkout main
+  428  cat README.md 
+  429  cat README.md 
+  430  git checkout master
+  431  cat README.md 
+  432  git branch
+  433  git branch -d main
+  434  git log
+  435  git branch
+  436  git branch milkshake-flavours
+  437  git branch
+  438  git checkout milkshake-flavours
+  439  git branch
+  440  git log
+  441  git status
+  442  nano milkshakes.md
+  443  git status
+  444  git add milkshakes.md 
+  445  git commit -m "added initial flavours"
+  446  git status
+  447  git log
+  448  git checkout master
+  449  git branch
+  450  git checkout milkshake-flavours 
+  451  git branch
+  452  git checkout master
+  453  git status
+  454  git log
+  455  git checkout milkshake-flavours 
+  456  git log
+  457  git checkout master
+  458  git branch
+  459  git branch history
+  460  git branch
+  461  git checkout history 
+  462  git log
+  463  git branch 
+  464  git branch 
+  465  history > history.txt
